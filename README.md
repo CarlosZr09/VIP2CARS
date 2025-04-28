@@ -1,9 +1,18 @@
 # VIP2CARS
 
+Proyecto de prueba para el proceso de selección.
+
+## Tecnologías
+
+- **Laravel** 12  
+- **PHP** 8.2  
+- MySQL 8 (o superior)  
+- Composer  
+
 ## Instalación
 
 1. Clonar repo  
-   `git clone https://github.com/tuusuario/vip2cars.git`  
+   `git clone https://github.com/CarlosZr09/VIP2CARS`  
 2. Instalar dependencias  
    `composer install`  
 3. Configurar `.env` 
