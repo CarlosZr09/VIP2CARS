@@ -47,3 +47,8 @@ Proyecto de prueba para el proceso de selección.
 | GET    | /vehicles/data/{id}      | Mostrar vehículo específico en base al ID                                           |
 | DELETE | /vehicles/destroy/{id}   | Eliminar vehículo                                                                   |
 
+## Funcionalidades adicionales
+
+- **Autocompletado inteligente de usuarios**:  
+  Al crear un nuevo vehículo, el sistema permite seleccionar el tipo de documento e ingresar el número.  
+  Automáticamente busca en la base de datos si el usuario ya existe y, de ser así, autocompleta los campos del formulario, optimizando el flujo de registro y mejorando la experiencia de usuario.
